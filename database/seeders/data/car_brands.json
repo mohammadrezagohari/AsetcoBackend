@@ -1,0 +1,78 @@
+[
+    {
+        "car_id": 1,
+        "name": "Coupe 2013"
+    },
+    {
+        "car_id": 1,
+        "name": "Coupe 2012"
+    },
+    {
+        "car_id": 1,
+        "name": "Coupe 2010"
+    },
+    {
+        "car_id": 2,
+        "name": "Wagon 1994"
+    },
+    {
+        "car_id": 2,
+        "name": "Wagon 1993"
+    },
+    {
+        "car_id": 2,
+        "name": "Wagon 1992"
+    },
+    {
+        "car_id": 2,
+        "name": "Wagon 2019"
+    },
+    {
+        "car_id": 3,
+        "name": "Spider 1994"
+    },
+    {
+        "car_id": 3,
+        "name": "Spider 1993"
+    },
+    {
+        "car_id": 3,
+        "name": "Spider 1992"
+    },
+    {
+        "car_id": 3,
+        "name": "Spider 2019"
+    },
+    {
+        "car_id": 4,
+        "name": "Pickup 1994"
+    },
+    {
+        "car_id": 4,
+        "name": "Pickup 1993"
+    },
+    {
+        "car_id": 4,
+        "name": "Pickup 1992"
+    },
+    {
+        "car_id": 4,
+        "name": "Pickup 2019"
+    },
+    {
+        "car_id": 5,
+        "name": "GMC 1994"
+    },
+    {
+        "car_id": 5,
+        "name": "GMC 1993"
+    },
+    {
+        "car_id": 5,
+        "name": "GMC 1992"
+    },
+    {
+        "car_id": 5,
+        "name": "GMC 2019"
+    }
+]

@@ -1,0 +1,689 @@
+[
+    {
+        "subject": "تعویض پایه دسته موتور راست",
+        "description": "-",
+        "price": "900000",
+        "servicecategory_id": 1,
+        "carmodel_id": 1
+    },
+    {
+        "subject": "تعویض دسته موتور راست",
+        "description": "-",
+        "price": "700000",
+        "servicecategory_id": 1,
+        "carmodel_id": 1
+    },
+    {
+        "subject": "تعویض دسته موتور چپ(زیر باتری)",
+        "description": "-",
+        "price": "800000",
+        "servicecategory_id": 1,
+        "carmodel_id": 1
+    },
+    {
+        "subject": "تعویض دسته موتور پایین درجا",
+        "description": "-",
+        "price": "700000",
+        "servicecategory_id": 1,
+        "carmodel_id": 1
+    },
+    {
+        "subject": "تعویض دسته موتور پایین و باز و بستن پلوس",
+        "description": "-",
+        "price": "1700000",
+        "servicecategory_id": 1,
+        "carmodel_id": 1
+    },
+    {
+        "subject": "تعویض باک بنزین",
+        "description": "قیمت توافقی",
+        "price": "0",
+        "servicecategory_id": 1,
+        "carmodel_id": 1
+    },
+    {
+        "subject": "تعویض پمپ بنزین",
+        "description": "-",
+        "price": "800000",
+        "servicecategory_id": 1,
+        "carmodel_id": 1
+    },
+    {
+        "subject": "تعویض فیلتر بنزین",
+        "description": "-",
+        "price": "400000",
+        "servicecategory_id": 1,
+        "carmodel_id": 1
+    },
+    {
+        "subject": "تعویض شلنگ رفت بنزین",
+        "description": "-",
+        "price": "1100000",
+        "servicecategory_id": 1,
+        "carmodel_id": 1
+    },
+    {
+        "subject": "تعویض شلنگ برگشت بنزین",
+        "description": "-",
+        "price": "1100000",
+        "servicecategory_id": 1,
+        "carmodel_id": 1
+    },
+    {
+        "subject": "تعویض منبع کنپستر",
+        "description": "-",
+        "price": "900000",
+        "servicecategory_id": 1,
+        "carmodel_id": 1
+    },
+    {
+        "subject": "تعویض شلنگ از منبع بع سه راهی",
+        "description": "-",
+        "price": "900000",
+        "servicecategory_id": 2,
+        "carmodel_id": 1
+    },
+    {
+        "subject": "تعویض شلنگ از رادیاتور به منبع انبساط",
+        "description": "-",
+        "price": "300000",
+        "servicecategory_id": 2,
+        "carmodel_id": 1
+    },
+    {
+        "subject": "تعویض شیلنگ پلیمری",
+        "description": "-",
+        "price": "2800000",
+        "servicecategory_id": 2,
+        "carmodel_id": 1
+    },
+    {
+        "subject": "تعویض شیلنگ بالای رادیاتور",
+        "description": "-",
+        "price": "400000",
+        "servicecategory_id": 2,
+        "carmodel_id": 1
+    },
+    {
+        "subject": "تعویض شیلنگ پایین رادیاتور",
+        "description": "-",
+        "price": "500000",
+        "servicecategory_id": 2,
+        "carmodel_id": 1
+    },
+    {
+        "subject": "تعویض شیلنگ بخاری کوتاه",
+        "description": "-",
+        "price": "500000",
+        "servicecategory_id": 2,
+        "carmodel_id": 1
+    },
+    {
+        "subject": "تعویض شیلنگ بخاری بلند",
+        "description": "-",
+        "price": "700000",
+        "servicecategory_id": 2,
+        "carmodel_id": 1
+    },
+    {
+        "subject": "تعویض فشنگی آب",
+        "description": "-",
+        "price": "500000",
+        "servicecategory_id": 2,
+        "carmodel_id": 1
+    },
+    
+
+
+
+    {
+        "subject": "تعویض پایه دسته موتور راست",
+        "description": "-",
+        "price": "900000",
+        "servicecategory_id": 1,
+        "carmodel_id": 2
+    },
+    {
+        "subject": "تعویض دسته موتور راست",
+        "description": "-",
+        "price": "700000",
+        "servicecategory_id": 1,
+        "carmodel_id": 2
+    },
+    {
+        "subject": "تعویض دسته موتور چپ(زیر باتری)",
+        "description": "-",
+        "price": "800000",
+        "servicecategory_id": 1,
+        "carmodel_id": 2
+    },
+    {
+        "subject": "تعویض دسته موتور پایین درجا",
+        "description": "-",
+        "price": "700000",
+        "servicecategory_id": 1,
+        "carmodel_id": 2
+    },
+    {
+        "subject": "تعویض دسته موتور پایین و باز و بستن پلوس",
+        "description": "-",
+        "price": "1700000",
+        "servicecategory_id": 1,
+        "carmodel_id": 2
+    },
+    {
+        "subject": "تعویض باک بنزین",
+        "description": "قیمت توافقی",
+        "price": "0",
+        "servicecategory_id": 1,
+        "carmodel_id": 2
+    },
+    {
+        "subject": "تعویض پمپ بنزین",
+        "description": "-",
+        "price": "800000",
+        "servicecategory_id": 1,
+        "carmodel_id": 2
+    },
+    {
+        "subject": "تعویض فیلتر بنزین",
+        "description": "-",
+        "price": "400000",
+        "servicecategory_id": 1,
+        "carmodel_id": 2
+    },
+    {
+        "subject": "تعویض شلنگ رفت بنزین",
+        "description": "-",
+        "price": "1100000",
+        "servicecategory_id": 1,
+        "carmodel_id": 2
+    },
+    {
+        "subject": "تعویض شلنگ برگشت بنزین",
+        "description": "-",
+        "price": "1100000",
+        "servicecategory_id": 1,
+        "carmodel_id": 2
+    },
+    {
+        "subject": "تعویض منبع کنپستر",
+        "description": "-",
+        "price": "900000",
+        "servicecategory_id": 1,
+        "carmodel_id": 2
+    },
+    {
+        "subject": "تعویض شلنگ از منبع بع سه راهی",
+        "description": "-",
+        "price": "900000",
+        "servicecategory_id": 2,
+        "carmodel_id": 2
+    },
+    {
+        "subject": "تعویض شلنگ از رادیاتور به منبع انبساط",
+        "description": "-",
+        "price": "300000",
+        "servicecategory_id": 2,
+        "carmodel_id": 2
+    },
+    {
+        "subject": "تعویض شیلنگ پلیمری",
+        "description": "-",
+        "price": "2800000",
+        "servicecategory_id": 2,
+        "carmodel_id": 2
+    },
+    {
+        "subject": "تعویض شیلنگ بالای رادیاتور",
+        "description": "-",
+        "price": "400000",
+        "servicecategory_id": 2,
+        "carmodel_id": 2
+    },
+    {
+        "subject": "تعویض شیلنگ پایین رادیاتور",
+        "description": "-",
+        "price": "500000",
+        "servicecategory_id": 2,
+        "carmodel_id": 2
+    },
+    {
+        "subject": "تعویض شیلنگ بخاری کوتاه",
+        "description": "-",
+        "price": "500000",
+        "servicecategory_id": 2,
+        "carmodel_id": 2
+    },
+    {
+        "subject": "تعویض شیلنگ بخاری بلند",
+        "description": "-",
+        "price": "700000",
+        "servicecategory_id": 2,
+        "carmodel_id": 2
+    },
+    {
+        "subject": "تعویض فشنگی آب",
+        "description": "-",
+        "price": "500000",
+        "servicecategory_id": 2,
+        "carmodel_id": 2
+    },
+    
+
+
+
+
+
+    {
+        "subject": "تعویض پایه دسته موتور راست",
+        "description": "-",
+        "price": "900000",
+        "servicecategory_id": 1,
+        "carmodel_id": 3
+    },
+    {
+        "subject": "تعویض دسته موتور راست",
+        "description": "-",
+        "price": "700000",
+        "servicecategory_id": 1,
+        "carmodel_id": 3
+    },
+    {
+        "subject": "تعویض دسته موتور چپ(زیر باتری)",
+        "description": "-",
+        "price": "800000",
+        "servicecategory_id": 1,
+        "carmodel_id": 3
+    },
+    {
+        "subject": "تعویض دسته موتور پایین درجا",
+        "description": "-",
+        "price": "700000",
+        "servicecategory_id": 1,
+        "carmodel_id": 3
+    },
+    {
+        "subject": "تعویض دسته موتور پایین و باز و بستن پلوس",
+        "description": "-",
+        "price": "1700000",
+        "servicecategory_id": 1,
+        "carmodel_id": 3
+    },
+    {
+        "subject": "تعویض باک بنزین",
+        "description": "قیمت توافقی",
+        "price": "0",
+        "servicecategory_id": 1,
+        "carmodel_id": 3
+    },
+    {
+        "subject": "تعویض پمپ بنزین",
+        "description": "-",
+        "price": "800000",
+        "servicecategory_id": 1,
+        "carmodel_id": 3
+    },
+    {
+        "subject": "تعویض فیلتر بنزین",
+        "description": "-",
+        "price": "400000",
+        "servicecategory_id": 1,
+        "carmodel_id": 3
+    },
+    {
+        "subject": "تعویض شلنگ رفت بنزین",
+        "description": "-",
+        "price": "1100000",
+        "servicecategory_id": 1,
+        "carmodel_id": 3
+    },
+    {
+        "subject": "تعویض شلنگ برگشت بنزین",
+        "description": "-",
+        "price": "1100000",
+        "servicecategory_id": 1,
+        "carmodel_id": 3
+    },
+    {
+        "subject": "تعویض منبع کنپستر",
+        "description": "-",
+        "price": "900000",
+        "servicecategory_id": 1,
+        "carmodel_id": 3
+    },
+    {
+        "subject": "تعویض شلنگ از منبع بع سه راهی",
+        "description": "-",
+        "price": "900000",
+        "servicecategory_id": 2,
+        "carmodel_id": 3
+    },
+    {
+        "subject": "تعویض شلنگ از رادیاتور به منبع انبساط",
+        "description": "-",
+        "price": "300000",
+        "servicecategory_id": 2,
+        "carmodel_id": 3
+    },
+    {
+        "subject": "تعویض شیلنگ پلیمری",
+        "description": "-",
+        "price": "2800000",
+        "servicecategory_id": 2,
+        "carmodel_id": 3
+    },
+    {
+        "subject": "تعویض شیلنگ بالای رادیاتور",
+        "description": "-",
+        "price": "400000",
+        "servicecategory_id": 2,
+        "carmodel_id": 3
+    },
+    {
+        "subject": "تعویض شیلنگ پایین رادیاتور",
+        "description": "-",
+        "price": "500000",
+        "servicecategory_id": 2,
+        "carmodel_id": 3
+    },
+    {
+        "subject": "تعویض شیلنگ بخاری کوتاه",
+        "description": "-",
+        "price": "500000",
+        "servicecategory_id": 2,
+        "carmodel_id": 3
+    },
+    {
+        "subject": "تعویض شیلنگ بخاری بلند",
+        "description": "-",
+        "price": "700000",
+        "servicecategory_id": 2,
+        "carmodel_id": 3
+    },
+    {
+        "subject": "تعویض فشنگی آب",
+        "description": "-",
+        "price": "500000",
+        "servicecategory_id": 2,
+        "carmodel_id": 3
+    },
+    
+
+
+
+
+
+    {
+        "subject": "تعویض پایه دسته موتور راست",
+        "description": "-",
+        "price": "900000",
+        "servicecategory_id": 1,
+        "carmodel_id": 4
+    },
+    {
+        "subject": "تعویض دسته موتور راست",
+        "description": "-",
+        "price": "700000",
+        "servicecategory_id": 1,
+        "carmodel_id": 4
+    },
+    {
+        "subject": "تعویض دسته موتور چپ(زیر باتری)",
+        "description": "-",
+        "price": "800000",
+        "servicecategory_id": 1,
+        "carmodel_id": 4
+    },
+    {
+        "subject": "تعویض دسته موتور پایین درجا",
+        "description": "-",
+        "price": "700000",
+        "servicecategory_id": 1,
+        "carmodel_id": 4
+    },
+    {
+        "subject": "تعویض دسته موتور پایین و باز و بستن پلوس",
+        "description": "-",
+        "price": "1700000",
+        "servicecategory_id": 1,
+        "carmodel_id": 4
+    },
+    {
+        "subject": "تعویض باک بنزین",
+        "description": "قیمت توافقی",
+        "price": "0",
+        "servicecategory_id": 1,
+        "carmodel_id": 4
+    },
+    {
+        "subject": "تعویض پمپ بنزین",
+        "description": "-",
+        "price": "800000",
+        "servicecategory_id": 1,
+        "carmodel_id": 4
+    },
+    {
+        "subject": "تعویض فیلتر بنزین",
+        "description": "-",
+        "price": "400000",
+        "servicecategory_id": 1,
+        "carmodel_id": 4
+    },
+    {
+        "subject": "تعویض شلنگ رفت بنزین",
+        "description": "-",
+        "price": "1100000",
+        "servicecategory_id": 1,
+        "carmodel_id": 4
+    },
+    {
+        "subject": "تعویض شلنگ برگشت بنزین",
+        "description": "-",
+        "price": "1100000",
+        "servicecategory_id": 1,
+        "carmodel_id": 4
+    },
+    {
+        "subject": "تعویض منبع کنپستر",
+        "description": "-",
+        "price": "900000",
+        "servicecategory_id": 1,
+        "carmodel_id": 4
+    },
+    {
+        "subject": "تعویض شلنگ از منبع بع سه راهی",
+        "description": "-",
+        "price": "900000",
+        "servicecategory_id": 2,
+        "carmodel_id": 4
+    },
+    {
+        "subject": "تعویض شلنگ از رادیاتور به منبع انبساط",
+        "description": "-",
+        "price": "300000",
+        "servicecategory_id": 2,
+        "carmodel_id": 4
+    },
+    {
+        "subject": "تعویض شیلنگ پلیمری",
+        "description": "-",
+        "price": "2800000",
+        "servicecategory_id": 2,
+        "carmodel_id": 4
+    },
+    {
+        "subject": "تعویض شیلنگ بالای رادیاتور",
+        "description": "-",
+        "price": "400000",
+        "servicecategory_id": 2,
+        "carmodel_id": 4
+    },
+    {
+        "subject": "تعویض شیلنگ پایین رادیاتور",
+        "description": "-",
+        "price": "500000",
+        "servicecategory_id": 2,
+        "carmodel_id": 4
+    },
+    {
+        "subject": "تعویض شیلنگ بخاری کوتاه",
+        "description": "-",
+        "price": "500000",
+        "servicecategory_id": 2,
+        "carmodel_id": 4
+    },
+    {
+        "subject": "تعویض شیلنگ بخاری بلند",
+        "description": "-",
+        "price": "700000",
+        "servicecategory_id": 2,
+        "carmodel_id": 4
+    },
+    {
+        "subject": "تعویض فشنگی آب",
+        "description": "-",
+        "price": "500000",
+        "servicecategory_id": 2,
+        "carmodel_id": 4
+    },
+    
+
+
+
+
+
+    {
+        "subject": "تعویض پایه دسته موتور راست",
+        "description": "-",
+        "price": "900000",
+        "servicecategory_id": 1,
+        "carmodel_id": 5
+    },
+    {
+        "subject": "تعویض دسته موتور راست",
+        "description": "-",
+        "price": "700000",
+        "servicecategory_id": 1,
+        "carmodel_id": 5
+    },
+    {
+        "subject": "تعویض دسته موتور چپ(زیر باتری)",
+        "description": "-",
+        "price": "800000",
+        "servicecategory_id": 1,
+        "carmodel_id": 5
+    },
+    {
+        "subject": "تعویض دسته موتور پایین درجا",
+        "description": "-",
+        "price": "700000",
+        "servicecategory_id": 1,
+        "carmodel_id": 5
+    },
+    {
+        "subject": "تعویض دسته موتور پایین و باز و بستن پلوس",
+        "description": "-",
+        "price": "1700000",
+        "servicecategory_id": 1,
+        "carmodel_id": 5
+    },
+    {
+        "subject": "تعویض باک بنزین",
+        "description": "قیمت توافقی",
+        "price": "0",
+        "servicecategory_id": 1,
+        "carmodel_id": 5
+    },
+    {
+        "subject": "تعویض پمپ بنزین",
+        "description": "-",
+        "price": "800000",
+        "servicecategory_id": 1,
+        "carmodel_id": 5
+    },
+    {
+        "subject": "تعویض فیلتر بنزین",
+        "description": "-",
+        "price": "400000",
+        "servicecategory_id": 1,
+        "carmodel_id": 5
+    },
+    {
+        "subject": "تعویض شلنگ رفت بنزین",
+        "description": "-",
+        "price": "1100000",
+        "servicecategory_id": 1,
+        "carmodel_id": 5
+    },
+    {
+        "subject": "تعویض شلنگ برگشت بنزین",
+        "description": "-",
+        "price": "1100000",
+        "servicecategory_id": 1,
+        "carmodel_id": 5
+    },
+    {
+        "subject": "تعویض منبع کنپستر",
+        "description": "-",
+        "price": "900000",
+        "servicecategory_id": 1,
+        "carmodel_id": 5
+    },
+    {
+        "subject": "تعویض شلنگ از منبع بع سه راهی",
+        "description": "-",
+        "price": "900000",
+        "servicecategory_id": 2,
+        "carmodel_id": 5
+    },
+    {
+        "subject": "تعویض شلنگ از رادیاتور به منبع انبساط",
+        "description": "-",
+        "price": "300000",
+        "servicecategory_id": 2,
+        "carmodel_id": 5
+    },
+    {
+        "subject": "تعویض شیلنگ پلیمری",
+        "description": "-",
+        "price": "2800000",
+        "servicecategory_id": 2,
+        "carmodel_id": 5
+    },
+    {
+        "subject": "تعویض شیلنگ بالای رادیاتور",
+        "description": "-",
+        "price": "400000",
+        "servicecategory_id": 2,
+        "carmodel_id": 5
+    },
+    {
+        "subject": "تعویض شیلنگ پایین رادیاتور",
+        "description": "-",
+        "price": "500000",
+        "servicecategory_id": 2,
+        "carmodel_id": 5
+    },
+    {
+        "subject": "تعویض شیلنگ بخاری کوتاه",
+        "description": "-",
+        "price": "500000",
+        "servicecategory_id": 2,
+        "carmodel_id": 5
+    },
+    {
+        "subject": "تعویض شیلنگ بخاری بلند",
+        "description": "-",
+        "price": "700000",
+        "servicecategory_id": 2,
+        "carmodel_id": 5
+    },
+    {
+        "subject": "تعویض فشنگی آب",
+        "description": "-",
+        "price": "500000",
+        "servicecategory_id": 2,
+        "carmodel_id": 5
+    }
+]
